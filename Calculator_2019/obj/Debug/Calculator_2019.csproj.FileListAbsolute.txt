@@ -1,0 +1,10 @@
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.Form1.resources
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\bin\Debug\Calculator_2019.exe
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\bin\Debug\Calculator_2019.pdb
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.exe
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.pdb
+C:\Users\MONSTER\source\repos\Calculator_2019\Calculator_2019\obj\Debug\Calculator_2019.Form2.resources
